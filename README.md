@@ -15,18 +15,18 @@ Creación de tablas en la Base de datos
 Actualización de la base de datos
 
 #### Complementos:
-logging
-venv
-decouple
-pandas
+logging  
+venv  
+decouple  
+pandas  
 
 #### Detalles:
-download_data.py : Podemos ver el siguiente flujo de instrucciones.
-    -> Permite descargar la informacion mediante beatifulsoap 4
-     -> Obtiene los links de los csv y los guarda en una lista
-      -> Convierte los links en dataframes
-       -> Organiza los archivos en rutas siguiendo la siguiente estructura: “categoría\año-mes\categoria-dia-mes-año.csv”
-        -> Finalmente almacena los dataframes en formato csv de forma local
+download_data.py : Podemos ver el siguiente flujo de instrucciones.  
+    -> Permite descargar la informacion mediante beatifulsoap 4  
+     -> Obtiene los links de los csv y los guarda en una lista  
+      -> Convierte los links en dataframes  
+       -> Organiza los archivos en rutas siguiendo la siguiente estructura: “categoría\año-mes\categoria-dia-mes-año.csv”  
+        -> Finalmente almacena los dataframes en formato csv de forma local  
         
         
 data_preprocessing.py : Hace un analisis exploratorio de datos para realizar limpieza a los datos por medio de pandas. 
