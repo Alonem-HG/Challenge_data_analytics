@@ -20,7 +20,7 @@ decouple
 pandas  
 
 #### Detalles:
-download_data.py : Podemos ver el siguiente flujo de instrucciones.  
+**download_data.py** : Podemos ver el siguiente flujo de instrucciones.  
     -> Permite descargar la informacion mediante beatifulsoap 4  
      -> Obtiene los links de los csv y los guarda en una lista  
       -> Convierte los links en dataframes  
@@ -28,12 +28,12 @@ download_data.py : Podemos ver el siguiente flujo de instrucciones.
         -> Finalmente almacena los dataframes en formato csv de forma local  
         
         
-data_preprocessing.py : Hace un analisis exploratorio de datos para realizar limpieza a los datos por medio de pandas. 
+**data_preprocessing.py** : Hace un analisis exploratorio de datos para realizar limpieza a los datos por medio de pandas. 
 
-querys.py : Ejecuta scripts sql almacenados que estan almacenados de forma local junto con SQLAlchemy hacer una conexion(connection_sqlalchemy.py) con la base de datos. 
+**querys.py** : Ejecuta scripts sql almacenados que estan almacenados de forma local junto con SQLAlchemy hacer una conexion(connection_sqlalchemy.py) con la base de datos. 
 
-manage_data_collection.py: Insertamos los registros en servidor Postgress de forma local.
+**manage_data_collection.py** : Insertamos los registros en servidor Postgress de forma local.
 
-main.py : Ejecuta el programa.
+**main.py** : Ejecuta el programa.
 
       
