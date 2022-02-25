@@ -8,10 +8,10 @@ o Datos Argentina - Museos
 o Datos Argentina - Salas de Cine  
 o Datos Argentina - Bibliotecas Populares  
 
-#### Objetivos:
-Procesamiento de datos
-Creación de tablas en la Base de datos
-Actualización de la base de datos
+#### Objetivos:  
+Procesamiento de datos  
+Creación de tablas en la Base de datos  
+Actualización de la base de datos  
 
 #### Complementos:
 logging  
