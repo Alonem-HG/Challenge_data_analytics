@@ -36,4 +36,4 @@ pandas
 
 **main.py** : Ejecuta el programa.
 
-      
+**requirements.txt**: Muestra las librerias y versiones que use.
