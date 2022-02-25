@@ -2,12 +2,11 @@
 
 #### Descripcion del proyecto
 
-Recursos:
-Obtenemos los 3 archivos de fuente utilizando la librería requests y
-almacenarse en forma local.
-o Datos Argentina - Museos
-o Datos Argentina - Salas de Cine
-o Datos Argentina - Bibliotecas Populares
+### Recursos:  
+Obtenemos los 3 archivos de fuente utilizando la librería requests y almacenarse en forma local.   
+o Datos Argentina - Museos  
+o Datos Argentina - Salas de Cine  
+o Datos Argentina - Bibliotecas Populares  
 
 #### Objetivos:
 Procesamiento de datos
